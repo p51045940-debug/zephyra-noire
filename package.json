@@ -1,0 +1,10 @@
+{
+  "name": "zephyra-noire",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "qrcode-terminal": "latest",
+    "pino": "latest"
+  }
+}
